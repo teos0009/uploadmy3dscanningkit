@@ -33,10 +33,10 @@ import java.util.concurrent.Executors;
 
 /**
  * A sample Activity demonstrating USB-Serial support. 
- * modified to take pictures when receive ascii char over serial
+ * modified to take pictures upon receive ascii char over serial
  * from arduino 
  * @author mike wakerly (opensource@hoho.com)
- * @author shin 
+ * @author shin (teos0009@gmail.com)
  */
 
 public class ArduinoSerial extends Activity implements SurfaceHolder.Callback {
